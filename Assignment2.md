@@ -1,5 +1,5 @@
 
-### [HOME](https://krishna-waidande.github.io/)
+### [HOME](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/)
 
 
 # Assignment 2  | [Things learned](https://krishna-waidande.github.io//things_learned2)

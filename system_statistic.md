@@ -1,4 +1,4 @@
-### [HOME](https://krishna-waidande.github.io/)
+### [HOME](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/)
 
 # How to debug performance issues of the server
 

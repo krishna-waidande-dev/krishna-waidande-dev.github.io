@@ -1,4 +1,4 @@
-### [HOME](https://krishna-waidande.github.io/)
+### [HOME](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/)
 
 # Rules for Indentation in a code
 
