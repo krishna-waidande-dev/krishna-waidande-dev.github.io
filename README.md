@@ -44,4 +44,4 @@ These blogs are written on variety of teachnical and non-technical topics.
 > Coding:
 
 #### [Reverse the contents of an input file](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/Assignment1)
-#### [Count num of words from text file]((https://krishna-waidande-dev.github.io/krishna-waidande.github.io/Assignment2)
+#### [Count num of words from text file](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/Assignment2)

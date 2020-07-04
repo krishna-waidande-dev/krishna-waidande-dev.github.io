@@ -15,9 +15,6 @@ example: Our internet speed is 1Mbps or 5 Mbps or I have 1TB of HDD.
 ### What is Bit? 
 The bit is the smallest unit of data used to store information on the computer. A bit has a single binary value, either 0 or 1.
 
-|0|
----
-
 
 ### Why 0 and 1?
 

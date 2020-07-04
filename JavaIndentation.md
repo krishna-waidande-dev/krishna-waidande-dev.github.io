@@ -83,7 +83,7 @@ import com.krishagni.CRM.rest.Dao.CompanyDao;
 > Good practice
 ```
 public String getName() {
-return name;
+    return name;
 }
 ```
 
@@ -122,7 +122,7 @@ int name=10;
 Spaces which are not needed should not be used, the code should be kept in compact size and in readable format.
 
 
-### Line Length :
+### Line length
 
 Maximum characters in a line should not be more than 120.
 
