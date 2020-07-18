@@ -1,4 +1,4 @@
-### [HOME](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/)
+### [HOME](https://krishna-waidande-dev.github.io/)
 
 # Getting Started With Git
 

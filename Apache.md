@@ -1,17 +1,16 @@
-### [HOME](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/)
+### [HOME](https://krishna-waidande-dev.github.io/)
 
-# Get Familiar with Important Apache Files and Directories
+# Know Apache
 
-Now that you know how to manage the service itself, you should take a few minutes to familiarize yourself with a few important directories and files.
+In this blog post, we will get Familiar with Important Apache Files and Directories
 
 
- ## Content
-
+### Content
 
 + ```/var/www/html```: The actual web content, which by default only consists of the default Apache page you saw earlier, is served out of the /var/www/html directory. This can be changed by altering Apache configuration files.
 
 
-## Server Configuration
+## Apache Configurations
 
 + ```/etc/apache2```: The Apache configuration directory. All of the Apache configuration files reside here.
 

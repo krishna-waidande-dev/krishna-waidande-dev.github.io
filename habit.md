@@ -1,4 +1,4 @@
-### [HOME](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/)
+### [HOME](https://krishna-waidande-dev.github.io/)
 
 ## Wanna start a new habit?
 

@@ -1,12 +1,14 @@
-### [HOME](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/)
+### [HOME](https://krishna-waidande-dev.github.io/)
 
 # THE RISE OF LINUX. 
 
-In 1991, a student of University of Helsinki studying in computer science was writing program specifically for the hardware he was using and independent of an operating system because he wanted to use the functions of his new PC with an 80386 processor.The development was done on MINIX using the GNU C Compiler.
+In 1991, the University of Helsinki student studying in computer science was writing a program specifically for the hardware he was using and independent of an operating system because he wanted to use his new PC's functions with an 80386 processor. The development was done on MINIX using the GNU C Compiler.
 
-Later this program known by "Linux kernal".
 
-#### Wait!! you must be thinking now what is kernal.
+Later, this program is known by "Linux kernel".
+
+
+###### Wait!! you must be thinking now what is kernal.
 
 
 Kernal means a part of program which interacts with the hardware part and runs the operating system.In simple word a program which talks with hardware of computer is called as Kernal.
@@ -63,7 +65,7 @@ There are huge number of opensource softwares available on internet. Here I am l
 + [Wordpress](https://wordpress.org/)
 + [Blender](https://www.blender.org/)
 
-### Now let's see What's the difference between open source software and other types of software?
+##### Now let's see What's the difference between open source software and other types of software?
 
 Some software has source code that only the person, team, or organization who created it—and maintains exclusive control over it—can modify. People call this kind of software "proprietary" or "closed source" software.
 
