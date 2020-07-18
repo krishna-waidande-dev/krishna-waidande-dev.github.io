@@ -44,4 +44,4 @@ Feel free to explore.
 
 Comments, feedbacks and criticism are always welcome!
 
-#### Email: krishnawaidande-dev@gmail.com
+#### Email: krishnawaidande.dev@gmail.com
