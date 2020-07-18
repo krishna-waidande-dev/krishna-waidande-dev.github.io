@@ -2,7 +2,7 @@
 
 These blogs are written on variety of teachnical and non-technical topics.
 
-##### Blogs:
+#### Blogs:
 
 ### Software installation:
 
