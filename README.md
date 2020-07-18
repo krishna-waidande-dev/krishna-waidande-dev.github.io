@@ -2,7 +2,7 @@
 
 These blogs are written on variety of teachnical and non-technical topics.
 
-#### Blogs:
+Feel free to explore.
 
 ### Software installation:
 
@@ -41,3 +41,7 @@ These blogs are written on variety of teachnical and non-technical topics.
 
 ##### [Reverse the contents of an input file](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/Assignment1)
 ##### [Count num of words from text file](https://krishna-waidande-dev.github.io/krishna-waidande.github.io/Assignment2)
+
+Comments, feedbacks and criticism are always welcome!
+
+#### Email: krishnawaidande-dev@gmail.com
